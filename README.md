@@ -1,0 +1,1 @@
+# ESP32-CAM-Smart-Surveillance-System-FreeRTOS-Dual-Core-Architecture
